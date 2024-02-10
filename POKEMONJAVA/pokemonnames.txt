@@ -1,0 +1,151 @@
+Bulbasaur,Grass & Poison.,There is a plant seed on its back right from the day this POKéMON is born. The seed slowly grows larger.
+Ivysaur,Grass & Poison.,There is a plant bulb on its back. When it absorbs nutrients the bulb is said to blossom into a large flower.
+Venusaur,Grass & Poison.,A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.
+Charmander,Fire.,From the time it is born a flame burns at the tip of its tail. Its life would end if the flame were to go out.
+Charmeleon,Fire.,It lashes about with its tail to knock down its foe. It then tears up the fallen opponent with sharp claws.
+Charizard,Fire & Flying.,If it becomes furious the flame at the tip of its tail flares up in a whitish-blue color.
+Squirtle,Water.,After birth. its back swells and hardens into a shell. Powerfully sprays foam from its mouth.
+Wartortle,Water.,Its tail is large and covered with a rich. thick fur. The tail becomes increasingly deeper in color as Wartortle ages.
+Blastoise,Water.,Once it takes aim at its enemy. it blasts out water with even more force than a fire hose.
+Caterpie,Bug.,Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.
+Metapod,Bug.,This is its pre-evolution form. Its hard shell doesn't crack a bit even if Pikipek pecks at it; but it will tip over; spilling out its insides.
+Butterfree,Bug & Flying.,In battle. it flaps its wings at high speed to release highly toxic dust into the air.
+Weedle,Bug & Poison.,This is its pre-evolution form. It sticks to tree branches and eats leaves. The thread it spits from its mouth; which becomes gooey when it touches air; slows the movement of its foes.
+Kakuna,Bug & Poison.,This is its pre-evolution form. When it is resolutely preparing for evolution. the thread from its mouth hardens to form a sturdy cocoon.
+Beedrill,Bug & Poison.,It flies at high speed and attacks using its large venomous stingers on its forelegs and tail.
+Pidgey,Normal & Flying.,It is docile and prefers to avoid conflict. If disturbed. however; it can ferociously strike back.
+Pidgeotto,Normal & Flying.,Very protective of its sprawling territorial area. this POKéMON will fiercely peck at any intruder.
+Pidgeot,Normal & Flying.,When hunting. it skims the surface of water at high speed to pick off unwary prey.
+Rattata,Normal.,It eats anything. Wherever food is available. it will settle down and produce offspring continuously.
+Raticate,Normal.,It uses its whiskers to maintain its balance. It apparently slows down if they are cut off.
+Spearow,Normal & Flying.,Its loud cry can be heard over half a mile away. If its high. keening cry is heard echoing all around; it is a sign that they are warning each other of danger.
+Fearow,Normal & Flying.,Its huge and magnificent wings can keep it aloft in the air. It can remain flying a whole day without landing.
+Ekans,Poison.,The older it gets; the longer it grows. At night it wraps its long body around tree branches to rest.
+Arbok,Poison.,This is its pre-evolution form. After evolution its skin becomes yellow and it slithers on the ground for some time before finally returning to its tree-dwelling ways.
+Pikachu,Electric.,It has small electric sacs on both its cheeks. If threatened; it looses electric charges from the sacs.
+Raichu,Electric.,Its long tail serves as a ground to protect itself from its own high voltage power.
+Sandshrew,Ground.,It is skilled at slashing enemies with its claws. If broken; they start to grow back in a day.
+Sandslash,Ground.,If it digs at an incredible pace it may snap off its spikes and claws. They grow back in a day.
+Nidoran♀,Poison.,The female's horn develops slowly. Prefers physical attacks such as clawing and biting.
+Nidorina,Poison.,It has a docile nature. If it is threatened with attack; it raises the barbs that are all over its body.
+Nidoqueen,Poison & Ground.,Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.
+Nidoran♂,Poison.,Its large ears are always kept upright. If it senses danger; it will attack with a poisonous sting.
+Nidorino,Poison.,It stiffens its ears to sense danger. The larger its horns; the more powerful its secreted venom.
+Nidoking,Poison & Ground.,One swing of its mighty tail can snap a telephone pole as if it were a matchstick.
+Clefairy,Normal.,It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.
+Clefable,Normal.,It moves by skipping lightly as if it were flying using its wings.
+Vulpix,Fire.,When it is born; it has just one snow-white tail. The tail splits from its tip as it grows older.
+Ninetales,Fire.,It is vindictive and relentless by nature. Those who cross it even once will be cursed for a thousand years. along with their descendants.
+Jigglypuff,Normal & Fairy.,When its huge eyes light up. it sings a mysteriously soothing melody that lulls its enemies to sleep.
+Wigglytuff,Normal & Fairy.,The body is soft and rubbery. When angered. it will suck in air and inflate itself to an enormous size.
+Zubat,Poison & Flying.,It has no eyeballs. so it can't see. It checks its surroundings via the ultrasonic waves it emits from its mouth.
+Golbat,Poison & Flying.,Once it starts sucking blood; it does not stop until it is full. If it has not eaten; it will attack in a rage.
+Oddish,Grass & Poison.,During the day. it keeps its face buried in the ground. At night; it wanders around sowing its seeds.
+Gloom,Grass & Poison.,It releases a horribly smelling gas from its petals. It cloaks itself in the gas when under attack.
+Vileplume,Grass & Poison.,The larger its petals; the more toxic pollen it contains. Its big head is heavy and hard to hold up.
+Paras,Bug & Grass.,Even tiny parasites that attach themselves to the feet of POKéMON can cause big trouble. Springing into action; it drives them away with its sharp claws.
+Parasect,Bug & Grass.,The bug is mostly dead; with the mushroom on its back having become the main body. If the mushroom comes off. the bug stops moving.
+Venonat,Bug & Poison.,Its large eyes act as radar. In a bright place. you can see that they are clusters of many tiny eyes.
+Venomoth,Bug & Poison.,The powdery scales on its wings are hard to remove. They also contain poison that leaks out on contact.
+Diglett,Ground.,Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.
+Dugtrio,Ground.,A team of triplets that can burrow over 60 MPH. Due to this; some people think it's an earthquake.
+Meowth,Normal.,Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.
+Persian,Normal.,Its lithe muscles allow it to walk without making a sound. It attacks in an instant.
+Psyduck,Water.,It is constantly wracked by a headache. When the headache turns intense; it begins using mysterious powers.
+Golduck,Water.,Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster Kappa.
+Mankey,Fighting.,An agile POKéMON that lives in trees. It angers easily and will not hesitate to attack anything.
+Primeape,Fighting.,Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.
+Growlithe,Fire.,Very protective of its territory. It will bark and bite to repel intruders from its space.
+Arcanine,Fire.,Legendary for its speed. Its powerful legs let it run at speeds over 40 MPH.
+Poliwag,Water.,Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.
+Poliwhirl,Water.,Capable of living in or out of water. When out of water; it sweats to keep its body slimy.
+Poliwrath,Water & Fighting.,An adept swimmer at both the front crawl and breaststroke. Easily overtakes the best human swimmers.
+Abra,Psychic.,Using its ability to read minds. it will identify impending danger and TELEPORT to safety.
+Kadabra,Psychic.,It possesses strong spiritual power. The more danger it faces; the stronger its psychic power.
+Alakazam,Psychic.,It has an IQ of 5000. It calculates many things in order to gain the edge in every battle.
+Machop,Fighting.,Loves to build its muscles. It trains in all styles of martial arts to become even stronger.
+Machoke,Fighting.,Its muscular body is so powerful. it must wear a power-save belt to be able to regulate its motions.
+Machamp,Fighting.,It can launch 1000 punches in two seconds. Its punches are so powerful; they can cause tidal waves.
+Bellsprout,Grass & Poison.,The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.
+Weepinbell,Grass & Poison.,When hungry. it swallows anything that moves. Its hapless prey is melted inside by strong acids.
+Victreebel,Grass & Poison.,Said to live in huge colonies deep in jungles; although no one has ever returned from there.
+Tentacool,Water & Poison.,Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.
+Tentacruel,Water & Poison.,Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison.
+Geodude,Rock & Ground.,Found in fields and mountains. Mistaking them for boulders; people often step or trip on them.
+Graveler,Rock & Ground.,With a free and uncaring nature. it doesn't mind if pieces break off while it rolls down mountains.
+Golem,Rock & Ground.,Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.
+Ponyta,Fire.,It is a weak runner immediately after birth. It gradually becomes faster by chasing after its parents.
+Rapidash,Fire.,It gallops at nearly 150 MPH. With its mane blazing ferociously; it races as if it were an arrow.
+Slowpoke,Water & Psychic.,Incredibly slow and sluggish. It is quite content to loll about without worrying about the time.
+Slowbro,Water & Psychic.,The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left-over scraps.
+Magnemite,Electric & Steel.,It is attracted by electromagnetic waves. It may approach trainers if they are using their POKéGEAR.
+Magneton,Electric & Steel.,The MAGNEMITE are united by a magnetism so powerful. it dries all moisture in its vicinities.
+Farfetch'd,Normal & Flying.,If anyone tries to disturb where the essential plant sticks grow. it uses its own stick to thwart them.
+Doduo,Normal & Flying.,A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.
+Dodrio,Normal & Flying.,An enemy that takes its eyes off any of the three heads--even for a second--will get pecked severely.
+Seel,Water.,The protruding horn on its head is very hard. It is used for bashing through thick ice.
+Dewgong,Water & Ice.,Its body is covered in a pure white fur. The colder the weather. the more active it becomes.
+Grimer,Poison.,Wherever GRIMER has passed, so many germs are left behind that no plants will ever grow again.
+Muk,Poison.,Thickly covered with a filthy. vile sludge. It is so toxic. even its footprints contain poison.
+Shellder,Water.,Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.
+Cloyster,Water & Ice.,For protection. it uses its harder-than-diamonds shell. It also shoots spikes from the shell.
+Gastly,Ghost & Poison.,Said to appear in decrepi.; deserted buildings. It has no real shape as it appears to be made of a gas.
+Haunter,Ghost & Poison.,By licking. it saps the victim's life. It causes shaking that won't stop until the victim's demise.
+Gengar,Ghost & Poison.,Under a full moon. this POKéMON likes to mimic the shadows of people and laugh at their fright.
+Onix,Rock & Ground.,Burrows at high speed in search of food. The tunnels it leaves are used as homes by DIGLETTs.
+Drowzee,Psychic.,Puts enemies to sleep. then eats their dreams. Occasionally gets sick from eating bad dreams.
+Hypno,Psychic.,When it locks eyes with an enemy. it will use a mix of PSI moves such as HYPNOSIS and CONFUSION.
+Krabby,Water.,Its pincers are superb weapons. They sometimes break off during battle; but they grow back fast.
+Kingler,Water.,It can hardly lift its massive. overgrown pincer. The pincer's size makes it difficult to aim properly.
+Voltorb,Electric.,It is said to camouflage itself as a Poké Ball. It will self-destruct with very little stimulus.
+Electrode,Electric.,Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.
+Exeggcute,Grass & Psychic.,Its six eggs converse using telepathy. They can quickly gather if they become separated.
+Exeggutor,Grass & Psychic.,Each of its heads has its own will. They use telepathy to discuss their plans before coming to a joint decision.
+Cubone,Ground.,Because it never removes its skull helmet. no one has ever seen this POKéMON's real face.
+Marowak,Ground.,Small and weak. this POKéMON is adept with its bone club. It has grown more vicious over the ages.
+Hitmonlee,Fighting.,When kicking. the sole of its foot turns as hard as a diamond on impact and destroys its enemy.
+Hitmonchan,Fighting.,While apparently doing nothing. it fires punches in lightning fast volleys that are impossible to see.
+Lickitung,Normal.,It has a tongue that is over 6'6" long. It uses this long tongue to lick its body clean.
+Koffing,Poison.,Because it stores several kinds of toxic gases in its body. it is prone to exploding without warning.
+Weezing,Poison.,It grows by feeding on gases released by garbage. Though very rare. triplets have been found.
+Rhyhorn,Ground & Rock.,Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.
+Rhydon,Ground & Rock.,Protected by an armor-like hide. it is capable of living in molten lava of 3600 degrees.
+Chansey,Normal.,A rare and elusive POKéMON that is said to bring happiness to those who manage to get it.
+Tangela,Grass.,Its whole body is swathed with wide vines that are similar to seaweed. The vines sway as it walks.
+Kangaskhan,Normal.,It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.
+Horsea,Water.,Known to shoot down flying bugs with precision blasts of ink from the surface of the water.
+Seadra,Water.,Capable of swimming backwards by rapidly flapping its wing-like pectoral fins and stout tail.
+Goldeen,Water.,Its tail fin billows like an elegant ballroom dress. giving it the nickname of the Water Queen.
+Seaking,Water.,In the autumn spawning season. they can be seen swimming powerfully up rivers and creeks.
+Staryu,Water.,When the stars twinkle at night. it floats up from the sea floor. and its body's center core flickers.
+Starmie,Water & Psychic.,Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.
+Mr. Mime,Psychic & Fairy.,Always practices its pantomime act. It makes enemies believe something exists that really doesn't.
+Scyther,Bug & Flying.,With ninja-like agility and speed. it can create the illusion that there is more than one.
+Jynx,Ice & Psychic.,It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.
+Electabuzz,Electric.,Normally found near power plants. they can wander away and cause major blackouts in cities.
+Magmar,Fire.,Its body always burns with an orange glow that enables it to hide perfectly among flames.
+Pinsir,Bug.,It grips prey with its pincers until the prey is torn in half. What it can't tear. it tosses far.
+Tauros,Normal.,When it targets an enemy. it charges furiously while whipping its body with its long tails.
+Magikarp,Water.,In the distant past. it was somewhat stronger than the horribly weak descendants that exist today.
+Gyarados,Water & Flying.,Rarely seen in the wild. Huge and vicious. it is capable of destroying entire cities in a rage.
+Lapras,Water & Ice.,A gentle soul that can read the minds of people. It can ferry people across the sea on its back.
+Ditto,Normal.,Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.
+Eevee,Normal.,Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.
+Vaporeon,Water.,It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.
+Jolteon,Electric.,It accumulates negative ions in the atmosphere to blast out 10000-volt lightning bolts.
+Flareon,Fire.,When storing thermal energy in its body. its temperature could soar to over 1600 degrees.
+Porygon,Normal.,It is capable of reverting itself entirely back to program data and entering cyberspace.
+Omanyte,Rock & Water.,Despite having a heavy shell. it swims at a speed of 8 knots or more. It blow bubbles to protect itself.
+Omastar,Rock & Water.,A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey.
+Kabuto,Rock & Water.,A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago.
+Kabutops,Rock & Water.,A slim and fast swimmer. It slices its prey with its sharp sickles and drinks the body fluids.
+Aerodactyl,Rock & Flying.,A ferocious. prehistoric POKéMON that goes for the enemy's throat with its serrated saw-like fangs.
+Snorlax,Normal.,Very lazy. Just eats and sleeps. As its rotund bulk builds. it becomes steadily more slothful.
+Articuno,Ice & Flying.,A legendary bird POKéMON. It can create blizzards by freezing moisture in the air.
+Zapdos,Electric & Flying.,A legendary bird POKéMON. It is said to appear only when a thundercloud parts into two halves.
+Moltres,Fire & Flying.,A legendary bird POKéMON. It is said to have flown with the sun on its back.
+Dratini,Dragon.,It grows by molting repeatedly. Boots made from the tanned cast-off skin are a super luxury item.
+Dragonair,Dragon.,According to a witness. its body was surrounded by a strange aura that gave it a mystical look.
+Dragonite,Dragon & Flying.,It is said that this POKéMON lives somewhere in the sea and flies over the sky at Mach speed.
+Mewtwo,Psychic.,A POKéMON created by recombining Mew's genes. It's said to have the most savage heart among POKéMON.
+Mew,Psychic.,A POKéMON of South America that was thought to have been extinct. It is very intelligent and learns any move.
